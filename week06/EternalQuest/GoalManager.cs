@@ -52,7 +52,7 @@ public class GoalManager
     
     public void CreateGoal()
     {
-        Console.WriteLine("\nThetypes of Goals are:");
+        Console.WriteLine("\nThe types of Goals are:");
         Console.WriteLine("1. Simple Goal");
         Console.WriteLine("2. Eternal Goal");
         Console.WriteLine("3. Checklist Goal");
